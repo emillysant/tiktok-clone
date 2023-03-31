@@ -1,3 +1,8 @@
+
+# Projeto clone do tiktok 
+
+![image](https://user-images.githubusercontent.com/70452464/229120470-c149c5b2-7a16-4b7f-b773-b374a4cb1421.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
