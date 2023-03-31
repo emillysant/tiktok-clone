@@ -3,7 +3,7 @@ html {
 }
 
 .App {
-  background-color: black;
+  background-color: #44475a;
   height: 100vh;
   display: grid;
   place-items: center;
